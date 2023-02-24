@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $path | rt ":" "\n" | wc -1
+alias ls= 'rm*'
