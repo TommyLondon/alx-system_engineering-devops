@@ -1,0 +1,2 @@
+#!/bin/bash
+$path | rt ":" "\n" | wc -1
