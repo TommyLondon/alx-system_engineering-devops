@@ -1,2 +1,2 @@
 #!/bin/bash
-$path | rt ":" "\n" | wc -1
+echo $path | rt ":" "\n" | wc -1
